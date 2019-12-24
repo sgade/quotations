@@ -1,0 +1,23 @@
+body {
+  color: #1e1e1e;
+  background: #fafafa;
+}
+/** DARK MODE **/
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #dbdbdb;
+    background: #1e1e1e;
+  }
+}
+
+.quotations {
+  /* list-style: none;
+  padding-left: 0; */
+  margin: 8px;
+}
+.quotations .quotation {
+  margin-bottom: 8px;
+}
+.quotations .quotation:last-child {
+  margin-bottom: 0;
+}

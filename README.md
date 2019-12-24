@@ -1,6 +1,6 @@
 # quotations
 
-Funny quotations, that may actually be true.
+Funny quotations that may actually be true.
 
 ## Structure
 
