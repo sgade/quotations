@@ -1,5 +1,15 @@
-# Created by https://www.gitignore.io/api/linux,macos,windows
-# Edit at https://www.gitignore.io/?templates=linux,macos,windows
+# Created by https://www.gitignore.io/api/hugo,linux,macos,windows
+# Edit at https://www.gitignore.io/?templates=hugo,linux,macos,windows
+
+### Hugo ###
+# Generated files by hugo
+/src/public/
+/src/resources/_gen/
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
 
 ### Linux ###
 *~
@@ -70,4 +80,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/linux,macos,windows
+# End of https://www.gitignore.io/api/hugo,linux,macos,windows

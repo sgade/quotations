@@ -1,0 +1,9 @@
+# Site settings
+baseURL = "https://sgade.github.io/quotations/"
+languageCode = "de-DE"
+title = "Sörens schlaue Sprüche"
+# Only build type "home"
+disableKinds = [ "page", "section", "RSS", "taxonomy", "taxonomyTerm", "sitemap", "404" ]
+
+# Deployment settings
+publishDir = ".."

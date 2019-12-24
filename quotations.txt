@@ -1,7 +1,0 @@
-IntelliJ ist ganz klar besser als Eclipse.
-Eclipse ist sowas von 2001.
-SOAP? REST in peace.
-JSON ist das neue XML.
-Xamarin kann man machen, kann man auch lassen.
-Cordova, puh. Nein.
-C# ist ja auch wie Java.
